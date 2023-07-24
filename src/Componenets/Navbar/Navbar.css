@@ -1,0 +1,16 @@
+.neew{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 128px 1px 180px;
+    background-color: #bad4db;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.nav-right{
+    display: inline-flex;
+}
+ul{
+    list-style: none;
+}

@@ -1,0 +1,43 @@
+  main {
+    height: 100vh;
+    width: 100%;
+    background-color: #89abbe;
+  }
+  .home-page{
+    background-image: url(../../assets/download.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 178vh;
+    height: 100vh;
+  }
+  .text-tit{
+    margin: 0;
+    width: 36rem;
+    padding: 15rem 0rem 0rem 7rem;
+    font-size: 35px;
+    
+  }
+  .right-opacities{
+   background-color: rgba(0,0,0,0.1);;
+    width: 41rem;
+    height: 25rem;
+    display: inline-flex;
+    margin: -18rem 63rem 1rem 41rem;
+    padding-top: 20rem;
+    justify-content: end;
+  }
+
+  input[type="number"]{
+    width: 30rem;
+    height: 2rem;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    padding: 1px 12px 1px 18px;
+    
+  }
+  .cgpa{
+    text-align-last: end;
+    margin-right: 55px;
+  }
